@@ -1,0 +1,13 @@
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.exe
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.deps.json
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.json
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.runtimeconfig.dev.json
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.dll
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\bin\Debug\netcoreapp3.1\ödev.pdb
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csprojAssemblyReference.cache
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfoInputs.cache
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.AssemblyInfo.cs
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.csproj.CoreCompileInputs.cache
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.dll
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.pdb
+C:\Users\MonsterPC\Desktop\mazilim\c#\ödev\ödev\obj\Debug\netcoreapp3.1\ödev.genruntimeconfig.cache
